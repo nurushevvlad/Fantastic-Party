@@ -1,0 +1,85 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #00FFFF;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+header a {
+text-decoration: none;
+background-color: white;
+padding: 3px;
+border-radius: 5px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    padding: 20px;
+    border-radius: 15px;
+    border: 1px solid #B0C4DE;
+}
+
+footer {
+    background-color: white;
+    border-radius: 20px;
+    text-align: left;
+    padding: 20px;
+
+}
+
+footer p {
+    border: 1px solid #B0C4DE;
+    padding: 3px;
+}
+
+nav {
+    background-color: white;
+    border: 1px solid #B0C4DE;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #B0C4DE;
+    font-size: 20px;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+    margin: 10px;
+}
+
+.icon {
+    background-color: #B0C4DE;
+    color: royalblue;
+}
+
+.con {
+    background-color: rgb(84, 238, 84);
+    padding: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+.non {
+    border: 1px solid #B0C4DE;
+    border-radius: 10px;
+}
+
+.bob {
+    border: 3px solid blue;
+    text-decoration: none;
+    padding: 7px;
+}
+
+.vov {
+    border: 3px solid blue;
+    text-decoration: none;
+    padding: 7px;
+}
